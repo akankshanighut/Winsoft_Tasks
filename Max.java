@@ -2,7 +2,7 @@
 //Date: 4/4/2024
 //Program: Max sum path with elements of both arr whose sum is max.
 //Input:  X = { 3, 6, 7, 8, 10, 12, 15, 18, 100 } Y= { 1, 2, 3, 5, 7, 9, 10, 11, 15, 16, 18, 25, 50 }    
- //Output:  The maximum sum is 199
+//Output:  The maximum sum is 199
 
 class Max
 {
